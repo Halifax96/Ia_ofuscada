@@ -15,7 +15,7 @@
       </div>
       <div class="pie">
         <h5>Todos los derechos reservados</h5>
-        <h5>®Esteban Salazar Peña</h5>
+        <h5>®Esteban Peña Salazar</h5>
       </div>
     </div>
     <div>
